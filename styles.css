@@ -1,0 +1,60 @@
+.myNavbar{
+    position: absolute;
+    right: 15px;
+}
+.products{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+li{
+    font-size:larger
+}
+ul{
+    color: grey;
+}
+p{
+    color: grey;
+}
+body{
+    padding: 0;
+}
+.lastList{
+    list-style: none;
+}
+#footer-describtion{
+    font-size: .75rem;
+    color: gray;
+    font-weight: lighter;
+}
+.lastflexbox{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    font-size: .75rem;
+    color: grey;
+    font-weight: bold;
+    padding: 2rem;
+}
+h4{
+    font-weight: normal;
+    color:grey ;
+}
+.btn{
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: #212024;
+    border: 1px solid #212024;
+}
+.aTag{
+    color: grey;
+    text-decoration:none;
+}
+.aTag:hover{
+    text-decoration:none;
+}
+.names{
+    cursor: pointer;
+}
